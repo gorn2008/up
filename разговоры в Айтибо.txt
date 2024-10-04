@@ -76,7 +76,8 @@
 
 10 Высокий работник
 10.1 Дай-ка я Рому обниму
-10.2 Что это такое? (Про Sun Certified Programmer for the Java 2 Platform 1.4 Examination Score Report)
+10.2 Что это такое? (Про Sun Certified Programmer for the Java 2 Platform 1.4 Examination Score Report и 
+диплом с отличием БГУ)
 
 11 Бурба Станислав
 11.1 Он же что-то делает, он же сертифицированный. Я вымочил батарейку в пиве.
